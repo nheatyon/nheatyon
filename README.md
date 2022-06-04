@@ -11,7 +11,7 @@
 
 - 👨‍💻 For information about me (my social networks or my works and projects) visit my website <a href="https://nheatyon.com/" target="_blank">nheatyon.com</a>
 - 🙋 If you need help with something or want to make requests please contact **info@nheatyon.com**
-- 🤖 Do you want to use one of my telegram bots or are you just curious to know which ones I have done? <a href="https://telegra.ph/Telegram-Bots-by-nheatyon-04-29" target="_blank">Visit this link</a>
+- 🤖 Do you want to use one of my telegram bots or are you just curious to know which ones I have done? <a href="https://portfolio.nheatyon.com" target="_blank">Visit this link</a>
 
 <h3 align="center">Statistics and informations:</h3>
 
