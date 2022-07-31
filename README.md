@@ -1,5 +1,5 @@
 <h2 align="center">Hi 👋, I'm nheatyon</h1>
-<h4 align="center">🔏 I have been programming for almost 3 years. I like to deal mainly with the backend of websites and the development of Minecraft plugins and VPS or server settings in general. Sometimes I create small software or projects to train and help many people!</h4>
+<h4 align="center">🔏 Pleased to meet you!</h4>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=nheatyon&label=Profile%20views&color=0e75b6&style=flat" alt="nheatyon" />
