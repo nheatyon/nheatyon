@@ -1,7 +1,5 @@
-<h2 align="center">Hi 👋, I'm Marco</h1>
-<h3 align="center">🔏 Pleased to meet you!</h3>
-
-<h3 align="center">Statistics and informations:</h3>
+<h2 align="center">Hi 👋, I'm Marco <br/><i>> An average random dude 🥀</i></h1>
+<p align="center">🔏 Pleased to meet you!</p>
 
 <table align="center">
   <tr>
